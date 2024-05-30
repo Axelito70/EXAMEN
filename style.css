@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://cdnb.20m.es/sites/127/2015/12/Sala-de-cine-20minutos-archivo.jpg");
+    background-size: 100%; /* Ajustar al 100% del ancho y alto del cuerpo */
+    font-family: Arial, sans-serif;
+}
+
+.card-title {
+    color: #000000;
+}
+.card-text {
+    color: #000000;
+}
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
